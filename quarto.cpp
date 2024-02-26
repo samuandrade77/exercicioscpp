@@ -13,7 +13,12 @@ int subtrair(int x, int y){
 
 int main(){
     cdb();
-    int a=15, b=9;
+    int a;
+    int b;
+    cout << "Digite o primeiro numero:" << endl;
+    cin >> a;
+    cout << "Digite o segundo numero:" << endl;
+    cin >> b;
     int s;
     s = subtrair (a,b);
     cout << "Subtração:" << s << endl;
