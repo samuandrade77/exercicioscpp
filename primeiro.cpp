@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << ("sou gostoso\n");
+    cout << ("aoba boba\n");
     system("pause");
     return 0;
 }
