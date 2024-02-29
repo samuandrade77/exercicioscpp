@@ -21,7 +21,7 @@ int main(){
     cout << "Deseja calcular outra potencia? Digite 1 para sim e 0 para nao" << endl;
     int res;
     cin >> res;
-    if(res==0)
+    if(res==0){
         cout << "Fim do programa, obrigado por utilizar nosso site" << endl;
-        break;}
+        break;}}
     return 0;}

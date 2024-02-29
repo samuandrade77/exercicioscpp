@@ -2,7 +2,7 @@
 using namespace std;
 int fatorial(int x){
     int result = 1;
-    int cont = 2;
+    int cont = 1;
     while (cont <= x){
         result*=cont;
         cont+=1;}
