@@ -17,7 +17,7 @@ int main (){
     cin >> mediaturma;
     if (mediaturma > media){
         cout << "Sua nota esta abaixo da media da turma" <<endl;}
-    else if (mediaturma = media){
+    else if (mediaturma == media){
         cout << "Sua nota esta na media da turma" <<endl;}
     else {
         cout << "Sua nota esta acima da media da turma" << endl;}

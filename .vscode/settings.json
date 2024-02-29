@@ -3,6 +3,7 @@
     "files.associations": {
         "iostream": "cpp",
         "random": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "ostream": "cpp"
     }
 }
