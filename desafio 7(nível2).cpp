@@ -7,5 +7,5 @@ int main(){
     cout << "Informe a quantidade de linhas que as matrizes terao:" << endl;
     cin >> L;
     cout << "Informe a quantidade de colunas que as matrizes terao:" << endl;
-    cin >> C;   
+    cin >> C;
     return 0;}
